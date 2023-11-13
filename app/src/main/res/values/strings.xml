@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversionnumber</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Convert">= Convert</string>
+    <string name="Reset">Reset</string>
+    <string name="Swap">Swap</string>
+</resources>
